@@ -1,2 +1,3 @@
 # gitskills
-practise the git usage
+Practise the git usage
+Create a new branch is quick.
